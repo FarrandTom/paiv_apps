@@ -11,8 +11,9 @@ The `flask` folder contains applications which have been wrapped within a simple
 ## To Get Started...
 
 1. `git clone` this repository
-2. Use the `environment.yml` file to generate a Python virtual environment. Using Conda this can be achieved by running the following command: `conda create --name paiv_apps --file environment.yml`
-3. Start the application with `python server.py`
+2. Navigate to the application folder you wish to run. 
+3. Use the `environment.yml` file to generate a Python virtual environment. Using Conda this can be achieved by running the following command: `conda create --name paiv_apps --file environment.yml`
+4. Start the application with `python server.py`
 
 If you are not an IBMer you will have to supply your own inference API. This can easily be swapped out within `inferencehelper.py` by changing the `POWERAI_BASEURL` constant on line 19.  
 
