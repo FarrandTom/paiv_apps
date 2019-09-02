@@ -1,0 +1,38 @@
+.bandqcolours {
+    background-color: #000000;
+    color: white;
+    padding-left: 5px;
+}
+
+.navbar-light .navbar-brand.white-text {
+    color: white;
+}
+
+.container-margin {
+    margin: 15 0;
+}
+
+.border {
+    border: 0.2rem solid black;
+}
+
+.container-padding {
+    padding-top: 25;
+    padding-bottom: 15;
+}
+
+.video-button-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15;
+}
+
+.card-title {
+    color: #007bff
+}
+
+.card-margins {
+    margin-left: 20;
+    margin-right: 20
+}
