@@ -14,3 +14,5 @@ If that fails you, simply `conda install` the following packages:
 Activate your environment, and start the server with:
 
 `python server.py`
+
+You can test the model by uploading images from Test/ folder.
